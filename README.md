@@ -21,6 +21,17 @@ This add-on is particularly useful for individuals who frequently work with URLs
 
 
 ### Installation
-- Manual install the copyURL.xpi file
+- git clone https://github.com/0xh7ml/copyURL.git
+- now open browser (firefox) 
+- go to about:debugging
+- select this firefox and load temporary addon
+- then select manifest.json
+- successfully installed
+
+ <a href="https://raw.githubusercontent.com/0xh7ml/copyURL/main/asset/installation.gif" alt="copyURL"></a>
+
+
 
 ### Demo
+
+ <a href="https://raw.githubusercontent.com/0xh7ml/copyURL/main/asset/demo.gif" alt="copyURL"></a>
