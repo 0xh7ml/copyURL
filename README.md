@@ -5,6 +5,7 @@
   copyURL
   <br>
 </h1>
+
 ### Description
 
 **copyURL** is a Firefox add-on designed to simplify the process of copying domain names from web address.
