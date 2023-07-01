@@ -2,7 +2,8 @@
     "name": "copyURL",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "Copy the absolute URL",
+    "description": "Copy the domain name from the URL",
+    "author": "Md Saikat",
     "permissions": [
       "activeTab",
       "<all_urls>",
