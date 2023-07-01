@@ -8,7 +8,19 @@
       "<all_urls>",
       "contextMenus"
     ],
+    "icons" : {
+      "48": "icons/copyURL.png",
+      "96": "icons/copyURL.png"
+    },
     "background":{
-      "scripts" : ["./src/main.js"]
+      "scripts" : ["/src/main.js"]
+    },
+    "browser_action": {
+      "default_icon": {
+        "19": "icons/copyURL.png",
+        "38": "icons/copyURL.png"
+      },
+      "default_title": "copyURL"
     }
+    
   }  
