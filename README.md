@@ -28,10 +28,10 @@ This add-on is particularly useful for individuals who frequently work with URLs
 - then select manifest.json
 - successfully installed
 
- <a href="https://raw.githubusercontent.com/0xh7ml/copyURL/main/asset/installation.gif" alt="copyURL"></a>
+ <a href="https://github.com/0xh7ml/copyURL/blob/main/asset/installation.gif" alt="copyURL"></a>
 
 
 
 ### Demo
 
- <a href="https://raw.githubusercontent.com/0xh7ml/copyURL/main/asset/demo.gif" alt="copyURL"></a>
+ <a href="https://github.com/0xh7ml/copyURL/blob/main/asset/demo.gif" alt="copyURL"></a>
