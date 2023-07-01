@@ -1,0 +1,14 @@
+{
+    "name": "copyURL",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Copy the absolute URL",
+    "permissions": [
+      "activeTab",
+      "<all_urls>",
+      "contextMenus"
+    ],
+    "background":{
+      "scripts" : ["./src/main.js"]
+    }
+  }  
