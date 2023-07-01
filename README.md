@@ -37,6 +37,6 @@ This add-on is particularly useful for individuals who frequently work with URLs
  <img src="https://github.com/0xh7ml/copyURL/blob/main/asset/demo.gif" alt="copyURL">
 
 
-### ToDO
+### ToDo
 - [ ] Firefox add-on (xpi)
 - [ ] Chrome extension
