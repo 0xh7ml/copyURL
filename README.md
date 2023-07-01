@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://raw.githubusercontent.com/0xh7ml/copyURL/main/icons/copyURL.png" alt="copyURL"></a>
+  <img src="https://raw.githubusercontent.com/0xh7ml/copyURL/main/icons/copyURL.png" alt="copyURL">
   <br>
   copyURL
   <br>
@@ -28,10 +28,10 @@ This add-on is particularly useful for individuals who frequently work with URLs
 - then select manifest.json
 - successfully installed
 
- <a href="https://github.com/0xh7ml/copyURL/blob/main/asset/installation.gif" alt="copyURL"></a>
+ <img src="https://github.com/0xh7ml/copyURL/blob/main/asset/installation.gif" alt="copyURL">
 
 
 
 ### Demo
 
- <a href="https://github.com/0xh7ml/copyURL/blob/main/asset/demo.gif" alt="copyURL"></a>
+ <img src="https://github.com/0xh7ml/copyURL/blob/main/asset/demo.gif" alt="copyURL"></a>
